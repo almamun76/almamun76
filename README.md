@@ -10,12 +10,14 @@ In 2015 I did an In-Service TOT course on C language, HTML, CSS, JavaScript, PHP
 
 With the help of the skills acquired from that TOT course, video tutorials of different youtube channels and various tutorial websites, I developed a dynamic website for Sherpur Government College (www.sherpurgovtcollege.edu.bd) in 2017 and Sribordi Govt. College, Sherpur (www.sribordicollege.gov.bd) in 2019. Complete raw php has been used in the backend of that website. Till the 1st quarter of 2022, features like online result processing system, online admission system, online MCQ test application etc. have been added to the website.
 
-I am receiving an online training course on Laravel organized by the Serve Human Foundation, Bangladesh. I want to work on the backend of web application in the future.
+I have received online training on Laravel organized by the Serve Human Foundation, Bangladesh. I have completed 2 projects with this PHP framework.
 
-Skills: C / C++ / HTML / CSS / JavaScript / Bootstrap / JQuery / PHP / MySql / MS Word / MS Excel / MS Poer Point
+I have received online training on Django organized by Study Mart and OSTAD platform. I have completed 2 projects using this Python framework.
 
-- 🔭 I’m currently working on Sherpur Govt. College, Sherpur 
-- 🌱 I’m currently learning Laravel 
+
+Skills: C / C++ / HTML / CSS / JavaScript / Bootstrap / JQuery / PHP / MySql / Laravel / Python / Django / MS Word / MS Excel / MS Poer Point
+
+- 🔭 I’m currently working on Sherpur Govt. College, Sherpur  
 - 💬 Ask me about Web development 
 
 
