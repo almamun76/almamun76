@@ -2,7 +2,7 @@
 #### Want to be a web developer
 ![Want to be a web developer](https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/39079243_2222743211292676_8165361265015783424_n.jpg?stp=dst-jpg_s960x960&_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEIsbp2dFUuToEwHVxRICiW4nkqZrL3uKrieSpmsve4qsatYRJNEtTVcl_fhKGSIkTSSpcK0QPbU8LSRCbI2OtO&_nc_ohc=EPHEW48bvMUAX_TAPoN&_nc_ht=scontent.fdac68-1.fna&oh=00_AT-rhTLriE7Rqwr-BfOGegXCBWlCeoghT-37L_zonUCqlA&oe=6247C993)
 
-I am involved in the teaching profession. I joined as a BCS (General Education) cadre officer through the 24th BCS in 2005. At present my posting is as Associate Professor (Physics) in Sherpur Government College, Sherpur.
+I am involved in the teaching profession. I joined as a BCS (General Education) cadre officer through the 24th BCS in 2005. At present my posting is as Associate Professor (Department of Physics) in Sherpur Government College, Sherpur.
 
 I have been fascinated with computer since my student days. Due to personal interest, I gained skills in MS Word and MS Excel that time. I had to skilled up on MS Power point for classroom teaching through digital content. I also gained expertise in graphics design and video editing. I also had to learn C and C ++ programming languages for the sake of my profession.
 
