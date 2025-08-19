@@ -8,9 +8,9 @@ I have been fascinated with computer since my student days. Due to personal inte
 
 In 2015 I did an In-Service TOT course on C language, HTML, CSS, JavaScript, PHP and MySQLi under A2I and TQI-II projects of the Government of Bangladesh. Since then I have been very interested in working on the backend of web application. Later I worked as a Master Trainer in C language, HTML, CSS, JavaScript, PHP, MySqli training courses in Mymensingh TTC, Dhaka TTC, Rajshahi TTC, Sylhet TTC and Comilla TTC.
 
-With the help of the skills acquired from that TOT course, video tutorials of different youtube channels and various tutorial websites, I developed a dynamic website for Sherpur Government College (www.sherpurgovtcollege.edu.bd) in 2017 and Sribordi Govt. College, Sherpur (www.sribordicollege.gov.bd) in 2019. Complete raw php has been used in the backend of that website. Till the 1st quarter of 2022, features like online result processing system, online admission system, online MCQ test application etc. have been added to the website.
+With the help of the skills acquired from that TOT course, video tutorials of different youtube channels and various tutorial websites, I developed a dynamic website for Sherpur Government College (https://www.thecodestudy.com/). Complete raw php has been used in the backend of that website. Till the 1st quarter of 2022, features like online result processing system, online admission system, online MCQ test application etc. have been added to the website.
 
-I am currently receiving training on "Backend API development with Python" from the Study Mart online platform.
+I am currently receiving training on "Full Stack Eeb Development with PHP, Laravel and Vue Js" from the Ostad online platform.
 
 Skills: C / C++ / HTML / CSS / JavaScript / Bootstrap / JQuery / PHP / MySql / Laravel / Python / Django / MS Word / MS Excel / MS Poer Point
 
